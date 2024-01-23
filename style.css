@@ -1,0 +1,332 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.clear-fix
+{
+    clear: both;
+}
+.header
+{
+    
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh ;
+    text-align: center;
+    color: white;
+    
+   
+  
+
+}
+.head
+{
+    text-align: center;
+    padding-top: 12%;
+}
+.head p
+{
+  font-size: 28px;
+  margin: 18px;
+}
+.head h1
+{
+    font-size: 58px;
+    margin-bottom: 18px;
+}
+.header p
+{
+   
+   
+    font-size: 24px;
+}
+
+.btn
+{
+    border: solid transparent 2px;
+    padding: 15px 28px;
+    margin-top: 50px;
+    font-size: 16px;
+    color: #fff;
+}
+.btn1
+{
+    background-color: #8e7754;
+
+}
+.btn2
+{
+   
+    margin-left: 12px;
+    font-family: "Alegreya Sans";
+    border-color: #fff;
+    background-color:rgba(9,0,0, 0.1) 
+    
+}
+.info 
+{
+ width: 100%;
+}
+
+.we-are p
+{
+    
+   
+   padding: 30px;;
+   font-size: 17px;
+   line-height: 1.86em;
+   
+
+
+}
+.we-are img
+{
+    width: 35%;
+    padding: 50px ;
+    margin-left: 100px;
+    float: left;
+    
+}
+.we-are h2
+{
+  padding-top: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+.we-are li 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    padding-top: 5px;
+    list-style-type: none;
+}
+.location
+{
+    width: 100%;
+ background-color: whitesmoke;
+}
+.location img
+{
+    width: 35%;
+    padding: 50px;
+    float: right;
+}
+.location h2
+{   margin-left: 50px;
+    padding-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.location p
+{
+    line-height: 1.86em;
+    font-size: 17px;
+    padding: 30px;
+    margin-left: 50px;
+
+}
+.baks{
+    
+    width: 80%;
+    text-align: center;
+    padding: 30px 0;
+    margin: auto;
+    
+}
+.baks h2
+{
+    padding: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.baks p
+{
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif
+}
+.bak h4
+{
+    font-size: 25px;
+    font-weight: 400;
+    padding: 20px;
+}
+
+.bak
+{
+    
+    width: 30%;
+   float: left;
+   
+}
+
+
+.baks img
+{
+   padding-top: 30px;
+    width: 90%;
+          
+}
+.bak p
+{    line-height: 1.86em;
+    padding: 5px;
+}
+.contact-info
+{
+   background-color: whitesmoke;
+}
+.contact
+{
+    margin: auto;
+    width: 80%;
+    height: 400px;
+    border: solid 5px whitesmoke;
+    background-color: whitesmoke;
+    background-image: url(images/contact-details-map.png),url(images/dark.png);
+    background-repeat: no-repeat;
+    background-size: 25% 25% , 10% 10%;
+    background-position: center right ;
+}
+.contact
+{
+    padding: 50px;
+}
+.contact h2
+{
+    padding: 30px;
+}
+.contact p
+{
+    line-height: 1.86em;
+    padding: 20px;
+   font-weight: 400;
+   
+}
+
+.contact  li
+{
+    padding: 10px;
+    list-style-type: none;
+   
+}
+.about
+{ 
+
+    margin: auto;
+    width: 100%;
+    height: auto;
+    border: solid 0px;
+    background-color: #403d38;
+    background-image: url(images/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-size: 25% 25%;
+    background-position: center right ;
+}
+
+.about-us 
+{
+    float: left;
+    text-align: center;
+
+}
+.about-us p
+{
+ padding: 50px;
+ color: white;
+ display: inline-block;
+
+ 
+}
+.about-us li
+{
+    padding: 20px 20px;
+    color: white;
+    list-style-type: none;
+
+    
+
+    
+
+}
+.about-us a
+{
+    text-decoration: none;
+    color: white;
+}
+.about-us h4
+{
+   padding: 30px 30px;
+   font-size: 18px;
+   color: white;
+  
+}
+.last
+{ 
+    background-color: #353330;
+    background-image: url(images/bakery-light-1.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    width: 100%;
+    background-color: #353330;
+    text-align: center;
+    padding-top: 50px;
+
+}
+.last p
+{
+    padding: 50px;
+    color: white;
+    
+}
+.nav-bar a
+{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    
+}
+.nav-bar li
+{
+    float: right;
+    padding: 20px;
+    list-style-type: none;
+
+}
+.nav-bar img
+{
+    margin-left: 50px;
+    width: 15%;
+    float: left;
+}
+.last i
+{
+    font-size: 36px;
+    padding-bottom: 50px;
+
+}
+.last a
+{
+    text-decoration: none;
+    color: #8c8a86;
+    padding: 5px;
+
+}
+.we-are i
+{
+    font-size: 20px;
+    color: #8e7754;
+
+}
+.contact i
+{
+   
+    font-size: 20px;
+    color: #8e7754;
+}
+
+
+    
+
